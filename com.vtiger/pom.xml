@@ -24,14 +24,8 @@
         </configuration>
       </plugin>
     </plugins>
-
-    
-  </build>
-
-
-
- 
-	<dependencies>
+ </build>
+<dependencies>
 
 		<dependency>
 			<groupId>org.seleniumhq.selenium</groupId>
