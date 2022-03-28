@@ -23,9 +23,9 @@ public class BookHotelGoibiboTest {
 	public void ibibo() throws Throwable {
 		
 		String month_year="April 2022";
-		String Entrydate= "5";
+		String Entrydate= "10";
 		String month_year1="April 2022";
-		String exitdate= "7";
+		String exitdate= "12";
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver=new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(20, TimeUnit.SECONDS);
